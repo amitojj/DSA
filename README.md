@@ -9,8 +9,8 @@
 
 ## Basics
 ### Patterns
-This JavaScript code generates following  patterns using nested loops.
-
+<details>
+ <summary>This JavaScript code generates  patterns using nested loops. Click to expand and see all the patterns it prints. </summary>
 
 
 ```plaintext
@@ -237,3 +237,4 @@ pattern 22
 4333334
 4444444
 ```
+</details>

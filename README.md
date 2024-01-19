@@ -2,6 +2,7 @@
 
 - [1-Basics](#basics)
     - [1.1-Patterns](#patterns)
+    - [1.2-Basic Math](#basic-math)
 
 
 
@@ -10,7 +11,7 @@
 ## Basics
 ### Patterns
 <details>
- <summary>This JavaScript code generates  patterns using nested loops. Click to expand and see all the patterns it prints. </summary>
+ <summary>This JavaScript code generates  patterns using nested loops. Click to expand and see all the patterns it prints. </summary>  
 
 
 ```plaintext
@@ -236,5 +237,18 @@ pattern 22
 4322234
 4333334
 4444444
+```   
+</details>    
+</br></br>
+
+### Basic Math
+#### Solves following problems:
 ```
-</details>
+1.Count Digits		
+2.Reverse a Number		
+3.Check Palindrome		
+4.GCD Or HCF		
+5.Armstrong Numbers		
+6.Print all Divisors		
+7.Check for Prime
+```

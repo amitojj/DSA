@@ -1,8 +1,8 @@
 # DSA Practice
 
-- [1-Basics](#1.-basics)
-    - [1.1-Patterns](#1.1-patterns)
-    - [1.2-Basic Math](#1.2-basic-math)
+- [1-Basics](#1-basics)
+    - [1.1-Patterns](#11-patterns)
+    - [1.2-Basic Math](#12-basic-math)
 
 
 

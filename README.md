@@ -1,15 +1,15 @@
 # DSA Practice
 
-- [1-Basics](#basics)
-    - [1.1-Patterns](#patterns)
-    - [1.2-Basic Math](#basic-math)
+- [1-Basics](#1.-basics)
+    - [1.1-Patterns](#1.1-patterns)
+    - [1.2-Basic Math](#1.2-basic-math)
 
 
 
 
 
-## Basics
-### Patterns
+## 1. Basics
+### 1.1 Patterns
 <details>
  <summary>This JavaScript code generates  patterns using nested loops. Click to expand and see all the patterns it prints. </summary>  
 
@@ -239,9 +239,9 @@ pattern 22
 4444444
 ```   
 </details>    
-</br></br>
+</br>
 
-### Basic Math
+### 1.2 Basic Math
 #### Solves following problems:
 ```
 1.Count Digits		

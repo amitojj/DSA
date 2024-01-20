@@ -3,6 +3,7 @@
 - [1-Basics](#1-basics)
     - [1.1-Patterns](#11-patterns)
     - [1.2-Basic Math](#12-basic-math)
+    - [1.3-Basic Recursion](#13-basic-recursion)
 
 
 
@@ -251,4 +252,19 @@ pattern 22
 5.Armstrong Numbers		
 6.Print all Divisors		
 7.Check for Prime
+```
+</br>
+
+### 1.3 Basic Recursion
+#### Solves following problems:
+```
+1.Understand recursion by print somet…		
+2.Print name N times using recursion		
+3.Print 1 to N using recursion		
+4.Print N to 1 using recursion		
+5.Sum of first N numbers		
+6.Factorial of N numbers		
+7.Reverse an array		
+8.Check if a string is palindrome 		
+9.Fibonacci Number
 ```
